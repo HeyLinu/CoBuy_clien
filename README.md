@@ -1,6 +1,6 @@
 
 # ![ic_launcher-web](https://github.com/OverLeo007/CoBuy_client/assets/57536503/b8eabc27-4955-464c-b90a-5ceda3ad932e) CoBuy 
-[![dev](https://img.shields.io/badge/dev-overLeo-yellow)](https://github.com/OverLeo007)
+[![dev](https://img.shields.io/badge/dev-overLeo-yellow)]((https://github.com/HeyLinu))
 [![backend](https://img.shields.io/badge/backend_repo-gray?logo=laravel)](https://github.com/waffflezz/CoBuy_server)
 [![wakatime](https://wakatime.com/badge/github/OverLeo007/CoBuy_client.svg)](https://wakatime.com/badge/github/OverLeo007/CoBuy_client)
 [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/OverLeo007/CoBuy_client/blob/master/LICENSE.txt)
